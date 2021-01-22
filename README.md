@@ -7,5 +7,5 @@ The tool uses Hopkins statistic as a preliminary analysis technique to test whet
 #### App URL: https://abhishekasingh.shinyapps.io/Clustering/
 
 #### Partitional Clustering: https://www.youtube.com/watch?v=VTkAaxAQja8&list=PLsvCWSOyp9Nguat2kESPG8vpE9vrsw7sn
-<br><br/>
+
 #### Hierarchical Clustering: https://www.youtube.com/watch?v=fDoLk92EqgU&list=PLsvCWSOyp9Nguat2kESPG8vpE9vrsw7sn
